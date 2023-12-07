@@ -1,0 +1,2 @@
+# .github
+EasyAuth Internal Organization
